@@ -16,6 +16,7 @@
 		<module>IGNITE-5483</module>
 		<module>IGNITE-5601</module>
 		<module>IGNITE-XXXX</module>
+		<module>ignite-query-event</module>
 	</modules>
 
 	<dependencies>
